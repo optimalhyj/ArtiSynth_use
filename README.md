@@ -8,5 +8,5 @@
 
 ##
 ## 1. In the main model control window, setting the view
-## 2. In the tongue Muscles window, activating multiple muscles at the same time
+## 2. In the tongue Muscles window, activating multiple muscles
 ## 3. In the Timeline window, setting the input probes of exciters
