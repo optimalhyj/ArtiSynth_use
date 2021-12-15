@@ -1,8 +1,10 @@
 # ArtiSynth_use
 
 ### Three demonstration screen recordings
-### The used ArtiSynth demo: staticJawHyoidTongue model
-### environment: the 3.6 version of ArtiSynth core and models on Windows 10 (x64) with JDK 14
+### 
+#### - 3.6 version of ArtiSynth core
+#### - staticJawHyoidTongue model
+#### - environment: Windows 10 (x64) with JDK 14
 
 ##
 ## 1. In the main model control window, setting the view
